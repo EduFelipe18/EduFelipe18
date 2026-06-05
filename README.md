@@ -1,6 +1,6 @@
-🎓 Estudante de Bacharelado em Tecnologia da Informação na UFERSA;
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, IFRN. 
 
-🔍 Atualmente, estou me aprofundando na linguagem C e explorando os fundamentos da programação;
+🔍 Atualmente, estou me aprofundando na linguagem C++ e explorando os fundamentos da programação;
 
 💡 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de codificação;
 
